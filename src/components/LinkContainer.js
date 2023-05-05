@@ -22,7 +22,6 @@ const LinkContainer = (props) => {
             TODO - Create logic to set state and add new favLink to favLinks array in state
         */
        setLink([...link, favLink])
-       // find a way to save it and add to the array
   }
 
   return (
